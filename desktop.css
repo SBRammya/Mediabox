@@ -1,0 +1,359 @@
+@media screen and (min-width: 419px)	{  
+    body {
+        font-size: 14px;
+      }
+      .main {
+        width: 1400px;
+        height: 868px;
+        background: rgba(27,27,27,1);
+        opacity: 1;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        overflow: hidden;
+      }
+      .bg-img {
+        width: 100%;
+        height: 878px;
+        background-image:url(images/macbook_pro_14____12_1.png);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: -10px;
+        left: 0px;
+        overflow: hidden;
+      }
+      .nav-ele2 {
+        width: 116px;
+        color: rgba(27,27,27,1);
+        position: absolute;
+        top: 22px;
+        left: 1111px;
+        font-family: Poppins;
+        font-weight: Medium;
+        font-size: 18px;
+        opacity: 1;
+        text-align: center;
+        
+      }
+      .nav-ele3 {
+        width: 116px;
+        color: rgba(27,27,27,1);
+        position: absolute;
+        top: 22px;
+        left: 1249px;
+        font-family: Poppins;
+        font-weight: Medium;
+        font-size: 18px;
+        opacity: 1;
+        text-align: center;
+      }
+      .nav-ele1 {
+        width: 166px;
+        color: rgba(27,27,27,1);
+        position: absolute;
+        top: 22px;
+        left: 933px;
+        font-family: Poppins;
+        font-weight: Medium;
+        font-size: 18px;
+        opacity: 1;
+        text-align: center;
+      }
+      .logo{
+        width: 240px;
+        height: 73px;
+        position: absolute;
+        left: 11px;
+        top: -10px;
+        background-image: url(images/13cf286a_706e_48c3_91bb_2d9bafe4caa_removebg_preview_1.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+      .searchbar {
+        width: 366px;
+        height: 53px;
+        background: rgba(255,255,255,1);
+        opacity: 1;
+        position: absolute;
+        top: 593px;
+        left: 412px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        overflow: hidden;
+      }
+      .search {
+        width: 163px;
+        height: 53px;
+        background: rgba(255,255,255,1);
+        opacity: 1;
+        position: absolute;
+        top: 593px;
+        left: 798px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        overflow: hidden;
+      }
+      .searchbar-text{
+        width: 163px;
+        color: rgba(27,27,27,1);
+        position: absolute;
+        top: 607px;
+        left: 427px;
+        font-family: Poppins;
+        font-weight: Medium;
+        font-size: 18px;
+        opacity: 1;
+        text-align: center;
+      }
+      .search-text {
+        width: 163px;
+        color: rgba(27,27,27,1);
+        position: absolute;
+        top: 607px;
+        left: 798px;
+        font-family: Poppins;
+        font-weight: Medium;
+        font-size: 18px;
+        opacity: 1;
+        text-align: center;
+      }
+      .name {
+        color: #fff;
+      }
+      .name {
+        color: #fff;
+      }
+      .v109_452 {
+        width: 150px;
+        height: 150px;
+        background: rgba(255,255,255,0.800000011920929);
+        opacity: 1;
+        position: absolute;
+        top: 318px;
+        left: 262px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        overflow: hidden;
+      }
+      .photos {
+        width: 165px;
+        color: rgba(27,27,27,1);
+        position: absolute;
+        top: 423px;
+        left: 252px;
+        font-family: Poppins;
+        font-weight: SemiBold;
+        font-size: 18px;
+        opacity: 1;
+        text-align: center;
+      }
+      .photos-btn {
+        width: 150px;
+        height: 150px;
+        background: rgba(255,255,255,0.800000011920929);
+        opacity: 1;
+        position: absolute;
+        top: 318px;
+        left: 441px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        overflow: hidden;
+      }
+      .videos {
+        width: 165px;
+        color: rgba(27,27,27,1);
+        position: absolute;
+        top: 423px;
+        left: 431px;
+        font-family: Poppins;
+        font-weight: SemiBold;
+        font-size: 18px;
+        opacity: 1;
+        text-align: center;
+      }
+      .videos-btn {
+        width: 150px;
+        height: 150px;
+        background: rgba(255,255,255,0.800000011920929);
+        opacity: 1;
+        position: absolute;
+        top: 318px;
+        left: 624px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        overflow: hidden;
+      }
+      .pdfs {
+        width: 164px;
+        color: rgba(27,27,27,1);
+        position: absolute;
+        top: 423px;
+        left: 614px;
+        font-family: Poppins;
+        font-weight: SemiBold;
+        font-size: 18px;
+        opacity: 1;
+        text-align: center;
+      }
+      .pdfs-btn {
+        width: 150px;
+        height: 150px;
+        background: rgba(255,255,255,0.800000011920929);
+        opacity: 1;
+        position: absolute;
+        top: 318px;
+        left: 812px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        overflow: hidden;
+      }
+      .playlists {
+        width: 164px;
+        color: rgba(27,27,27,1);
+        position: absolute;
+        top: 423px;
+        left: 802px;
+        font-family: Poppins;
+        font-weight: SemiBold;
+        font-size: 18px;
+        opacity: 1;
+        text-align: center;
+      }
+      .playlists-btn {
+        width: 150px;
+        height: 150px;
+        background: rgba(255,255,255,0.800000011920929);
+        opacity: 1;
+        position: absolute;
+        top: 318px;
+        left: 994px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        overflow: hidden;
+      }
+      .settings {
+        width: 164px;
+        color: rgba(27,27,27,1);
+        position: absolute;
+        top: 423px;
+        left: 984px;
+        font-family: Poppins;
+        font-weight: SemiBold;
+        font-size: 18px;
+        opacity: 1;
+        text-align: center;
+      }
+      .settings-btn {
+        width: 240px;
+        height: 73px;
+        background: url("../images/v117_463.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 10px;
+        left: 11px;
+        overflow: hidden;
+      }
+      .photosicon {
+        width: 144px;
+        height: 122px;
+        background: url("../images/v125_467.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 310px;
+        left: 271px;
+        overflow: hidden;
+      }
+      .playlistsicon {
+        width: 124px;
+        height: 124px;
+        background: url("../images/v127_468.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 318px;
+        left: 822px;
+        overflow: hidden;
+      }
+      .pdfsicon {
+        width: 124px;
+        height: 124px;
+        background: url("../images/v127_469.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 318px;
+        left: 634px;
+        overflow: hidden;
+      }
+      .settingsicon {
+        width: 115px;
+        height: 115px;
+        background: url("../images/v127_470.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 322px;
+        left: 1008px;
+        overflow: hidden;
+      }
+      .videosicon {
+        width: 114px;
+        height: 89px;
+        background: url("../images/v130_471.png");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 333px;
+        left: 460px;
+        overflow: hidden;
+      }
+      .photosicon{background-image: url(images/koajkslx_removebg_preview_1.png);
+      }
+      .playlistsicon{
+        background-image: url(images/35882_removebg_preview_1.png);
+      }
+      .pdfsicon{
+        background-image: url(images/5860_removebg_preview_1.png);
+      }
+      .settingsicon{
+        background-image: url(images/5596_removebg_preview_1.png);
+      }
+      .videosicon{
+        background-image: url(images/uasidjhaj_removebg_preview_1.png);
+      }
+      .hamburgermenu{
+        visibility: hidden;
+      }
+
+}

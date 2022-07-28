@@ -1,0 +1,332 @@
+@media screen and (max-width: 420px){
+   
+      body {
+        font-size: 14px;
+      }
+      .main{
+        width: 390px;
+        height: 868px;
+        background: rgba(27,27,27,1);
+        opacity: 1;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        overflow: hidden;
+      }
+      .bg-img {
+        width: 390px;
+        height: 868px;
+        background-image: url(images/13Pro.png);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        overflow: hidden;
+      }
+      .searchbar {
+        width: 352px;
+        height: 45px;
+        background: rgba(255,255,255,0.800000011920929);
+        opacity: 1;
+        position: absolute;
+        top: 551px;
+        left: 20px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        overflow: hidden;
+      }
+      .searchbar-text {
+        width: 170px;
+        color: rgba(27,27,27,1);
+        position: absolute;
+        top: 562px;
+        left: 30px;
+        font-family: Poppins;
+        font-weight: Medium;
+        font-size: 16px;
+        opacity: 1;
+        text-align: center;
+      }
+      .name {
+        color: #fff;
+      }
+      .name {
+        color: #fff;
+      }
+      .search{
+        width: 170px;
+        height: 40px;
+        background: rgba(255,255,255,0.800000011920929);
+        opacity: 1;
+        position: absolute;
+        top: 622px;
+        left: 111px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        overflow: hidden;
+      }
+      .search-text {
+        width: 170px;
+        color: rgba(27,27,27,1);
+        position: absolute;
+        top: 632px;
+        left: 111px;
+        font-family: Poppins;
+        font-weight: Medium;
+        font-size: 14px;
+        opacity: 1;
+        text-align: center;
+      }
+      .logo{
+        width: 150px;
+        height: 45px;
+        background-image: url(images/13cf286a_706e_48c3_91bb_2d9bafe4caa_removebg_preview_1.png);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 13px;
+        left: 121px;
+        overflow: hidden;
+      }
+      .hamburgermenu{
+        visibility: visible;
+      }
+      .line1 {
+        width: 24px;
+        height: 3px;
+        position: absolute;
+        left: 15px;
+        top: 26px;
+        background-color: #1b1b1b;
+        margin: 6px 0;
+      }
+      .line2 {
+        width: 24px;
+        height: 3px;
+        position: absolute;
+        left: 15px;
+        top: 32px;
+        background-color: #1b1b1b;
+        margin: 6px 0;
+      }
+      .line3 {
+        width: 24px;
+        height: 3px;
+        position: absolute;
+        left: 15px;
+        top: 38px;
+        background-color: #1b1b1b;
+        margin: 6px 0;
+      }
+      .pdfs{
+        width: 172px;
+        color: rgba(27,27,27,1);
+        position: absolute;
+        top: 293px;
+        left: 20px;
+        font-family: Poppins;
+        font-weight: SemiBold;
+        font-size: 16px;
+        opacity: 1;
+        text-align: center;
+        z-index: 1;
+      }
+      .playlists{
+        width: 172px;
+        color: rgba(27,27,27,1);
+        position: absolute;
+        top: 296px;
+        left: 200px;
+        font-family: Poppins;
+        font-weight: SemiBold;
+        font-size: 16px;
+        opacity: 1;
+        text-align: center;
+        z-index: 1;
+      }
+      .settings{
+        width: 67px;
+        color: rgba(27,27,27,1);
+        position: absolute;
+        top: 431px;
+        left: 167px;
+        font-family: Poppins;
+        font-weight: SemiBold;
+        font-size: 16px;
+        opacity: 1;
+        text-align: center;
+        z-index: 1;
+      }
+      .photos-btn {
+        width: 129px;
+        height: 112px;
+        background: rgba(255,255,255,0.800000011920929);
+        opacity: 1;
+        position: absolute;
+        top: 80px;
+        left: 42px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        overflow: hidden;
+      }
+      .videos-btn {
+        width: 129px;
+        height: 112px;
+        background: rgba(255,255,255,0.800000011920929);
+        opacity: 1;
+        position: absolute;
+        top: 80px;
+        left: 220px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        overflow: hidden;
+      }
+      .photos {
+        width: 172px;
+        color: rgba(27,27,27,1);
+        position: absolute;
+        top: 156px;
+        left: 20px;
+        font-family: Poppins;
+        font-weight: SemiBold;
+        font-size: 16px;
+        opacity: 1;
+        text-align: center;
+        z-index: 1;
+      }
+      .photosicon{
+        width: 120px;
+        height: 101px;
+        background-image: url(images/koajkslx_removebg_preview_1.png);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 70px;
+        left: 54px;
+        overflow: hidden;
+      }
+      .videos{
+        width: 172px;
+        color: rgba(27,27,27,1);
+        position: absolute;
+        top: 156px;
+        left: 200px;
+        font-family: Poppins;
+        font-weight: SemiBold;
+        font-size: 16px;
+        opacity: 1;
+        text-align: center;
+        z-index: 1;
+      }
+      .videosicon {
+        width: 100px;
+        height: 77px;
+        background-image: url(images/uasidjhaj_removebg_preview_1.png);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 86px;
+        left: 237px;
+        overflow: hidden;
+      }
+      .pdfs-btn{
+        width: 129px;
+        height: 112px;
+        background: rgba(255,255,255,0.800000011920929);
+        opacity: 1;
+        position: absolute;
+        top: 217px;
+        left: 42px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        overflow: hidden;
+      }
+      .playlists-btn{
+        width: 129px;
+        height: 112px;
+        background: rgba(255,255,255,0.800000011920929);
+        opacity: 1;
+        position: absolute;
+        top: 217px;
+        left: 220px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        overflow: hidden;
+      }
+     
+      .settings-btn{
+        width: 129px;
+        height: 112px;
+        background: rgba(255,255,255,0.800000011920929);
+        opacity: 1;
+        position: absolute;
+        top: 355px;
+        left: 134px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        overflow: hidden;
+      }
+      
+      .pdfsicon{
+        width: 110px;
+        height: 110px;
+        background-image: url(images/5860_removebg_preview_1.png);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 205px;
+        left: 51px;
+        overflow: hidden;
+      }
+      .playlistsicon{
+        width: 110px;
+        height: 110px;
+        background-image: url(images/35882_removebg_preview_1.png);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 205px;
+        left: 232px;
+        overflow: hidden;
+      }
+      .settingsicon{
+        width: 100px;
+        height: 100px;
+        background-image: url(images/5596_removebg_preview_1.png);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        opacity: 1;
+        position: absolute;
+        top: 350px;
+        left: 146px;
+        overflow: hidden;
+      }
+}
